@@ -1,0 +1,6 @@
+
+function logMyMessage('My message') {
+  console.log('My message');
+}
+
+

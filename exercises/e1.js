@@ -15,7 +15,9 @@
 
 // Your code goes here
 
-initial commit
+function logMessage() {
+  console.log('Hello, World!');
+}
 
 
 /**
@@ -31,7 +33,9 @@ initial commit
 
 // Your code goes here...
 
-
+function logMyMessage(message) {
+  console.log(message);
+}
 
 
 /**
@@ -46,7 +50,10 @@ initial commit
 
 // Your code goes here...
 
-
+function logMessageWithMyName(name) {
+  console.log('My name is ' + name + '!');
+}
+  
 
 
 /**
@@ -62,7 +69,9 @@ initial commit
 
 // Your code goes here...
 
-
+function logMyInfo(name, age) {
+  console.log('My name is ' + name + '. I am ' + age + ' years old!');
+}
 
 
 // === TEST YOURSELF ===
